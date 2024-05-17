@@ -1,5 +1,5 @@
 # AgriSense-AI 🌿
-#### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
+#### A simple ML and DL based website which recommends the best crop to grow and fertilizers to use.
 
 
 ## MOTIVATION 💪
@@ -7,7 +7,7 @@
 
 - In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield. 
 
-- In this project, I present a website in which the following applications are implemented; Crop recommendation, Fertilizer recommendation and Plant disease prediction, respectively. 
+- In this project, I present a website in which the following applications are implemented; Crop recommendation and Fertilizer recommendation.
 
     - In the crop recommendation application, the user can provide the soil data from their side and the application will predict which crop should the user grow. 
     
